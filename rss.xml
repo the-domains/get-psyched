@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[get-psyched]]></title>
         <description><![CDATA[get-psyched]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/get-psyched/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 17:23:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Sep 2015 17:23:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/get-psyched/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bon Jovi - You Give Love A Bad Name]]></title>
+            <description><![CDATA[<article><h1>Bon Jovi - You Give Love A Bad Name</h1><p>Music video by Bon Jovi performing You Give Love A Bad Name. (C) 1986 The Island Def Jam Music Group</p><img src="https://i.ytimg.com/vi/KrZHPOeOxQQ/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KrZHPOeOxQQ</link>
+            <guid isPermaLink="false">190a4415-6a84-4e7e-8670-34501973b0af</guid>
+            <pubDate>Fri, 18 Sep 2015 17:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Epic Football Pump Up]]></title>
             <description><![CDATA[<article><h1>Epic Football Pump Up</h1><p>Link: http://tinyurl.com/a6tzthu Music by Landmarqmusic</p><img src="https://i.ytimg.com/vi/sDUmVprZ43M/hqdefault.jpg"></article>]]></description>
