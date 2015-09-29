@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KrZHPOeOxQQ'
 title: Bon Jovi - You Give Love A Bad Name
-datePublished: '2015-09-18T17:23:46.867Z'
-dateModified: '2015-09-18T17:20:36.786Z'
+datePublished: '2015-09-29T03:01:05.890Z'
+dateModified: '2015-09-18T17:23:46.867Z'
 sourcePath: _posts/2015-09-18-bon-jovi-you-give-love-a-bad-name.md
 published: true
 _type: VideoObject
