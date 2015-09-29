@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UvEiSa6_EPA'
 title: "Steve Jobs' Vision of the World"
-datePublished: '2015-09-18T17:23:47.186Z'
-dateModified: '2015-09-18T17:19:28.741Z'
+datePublished: '2015-09-29T03:01:05.910Z'
+dateModified: '2015-09-18T17:23:47.186Z'
 sourcePath: _posts/2015-09-18-steve-jobs-vision-of-the-world.md
 published: true
 _type: VideoObject
