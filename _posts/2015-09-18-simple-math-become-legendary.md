@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=b9ZJHrmi2TE&list=PLD590916C2DFDFBD9&index=4'
 title: Simple Math - Become Legendary
-datePublished: '2015-09-18T17:23:46.962Z'
-dateModified: '2015-09-18T17:22:01.530Z'
+datePublished: '2015-09-29T03:00:47.342Z'
+dateModified: '2015-09-18T17:23:46.962Z'
 sourcePath: _posts/2015-09-18-simple-math-become-legendary.md
 published: true
 _type: VideoObject
