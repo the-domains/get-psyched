@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ji5_MqicxSo'
 title: 'Randy Pausch Last Lecture: Achieving Your Childhood Dreams'
-datePublished: '2015-09-18T17:23:46.963Z'
-dateModified: '2015-09-18T17:19:54.987Z'
+datePublished: '2015-09-29T03:01:06.243Z'
+dateModified: '2015-09-18T17:23:46.963Z'
 sourcePath: _posts/2015-09-18-randy-pausch-last-lecture-achieving-your-childhood-dreams.md
 published: true
 _type: VideoObject
