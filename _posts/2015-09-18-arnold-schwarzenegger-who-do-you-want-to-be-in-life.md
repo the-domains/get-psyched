@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=vH0nP4NzS9M'
 title: 'Arnold Schwarzenegger - "Who do YOU want to be in life?"'
-datePublished: '2015-09-18T17:23:46.939Z'
-dateModified: '2015-09-18T17:20:06.655Z'
+datePublished: '2015-09-29T03:01:05.943Z'
+dateModified: '2015-09-18T17:23:46.939Z'
 sourcePath: _posts/2015-09-18-arnold-schwarzenegger-who-do-you-want-to-be-in-life.md
 published: true
 _type: VideoObject
