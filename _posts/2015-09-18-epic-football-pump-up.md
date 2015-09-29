@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=sDUmVprZ43M'
 title: Epic Football Pump Up
-datePublished: '2015-09-18T17:23:46.844Z'
-dateModified: '2015-09-18T17:22:36.495Z'
+datePublished: '2015-09-29T03:00:47.302Z'
+dateModified: '2015-09-18T17:23:46.844Z'
 sourcePath: _posts/2015-09-18-epic-football-pump-up.md
 published: true
 _type: VideoObject
