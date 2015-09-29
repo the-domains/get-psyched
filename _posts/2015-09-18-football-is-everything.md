@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=pqVFoKFpZNs&index=13&list=PLD590916C2DFDFBD9'
 title: Football is Everything
-datePublished: '2015-09-18T17:23:46.918Z'
-dateModified: '2015-09-18T17:21:36.607Z'
+datePublished: '2015-09-29T03:01:05.896Z'
+dateModified: '2015-09-18T17:23:46.918Z'
 sourcePath: _posts/2015-09-18-football-is-everything.md
 published: true
 _type: VideoObject
