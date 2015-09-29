@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Rzu6zeLSWq8'
 title: Apple (unreleased) Think Different ad - Narrated by Steve Jobs (1997)
-datePublished: '2015-09-18T17:23:47.189Z'
-dateModified: '2015-09-18T17:19:15.719Z'
+datePublished: '2015-09-29T03:01:06.003Z'
+dateModified: '2015-09-18T17:23:47.189Z'
 sourcePath: _posts/2015-09-18-apple-unreleased-think-different-ad-narrated-by-steve-jo.md
 published: true
 _type: VideoObject
