@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ouRbkBAOGEw'
 title: 'JFK - We choose to go to the Moon, full length'
-datePublished: '2015-09-18T17:23:47.293Z'
-dateModified: '2015-09-18T17:19:03.507Z'
+datePublished: '2015-09-29T03:01:06.126Z'
+dateModified: '2015-09-18T17:23:47.293Z'
 sourcePath: _posts/2015-09-18-jfk-we-choose-to-go-to-the-moon-full-length.md
 published: true
 _type: VideoObject
