@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - strength
@@ -35,10 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=52eTlKDBgBA'
 title: The Transcendent Rep
-datePublished: '2015-09-29T03:00:47.155Z'
-dateModified: '2015-09-21T19:01:02.971Z'
+datePublished: '2016-01-11T17:25:53.050Z'
+dateModified: '2015-12-28T15:00:20.410Z'
 sourcePath: _posts/2015-09-21-the-transcendent-rep.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
