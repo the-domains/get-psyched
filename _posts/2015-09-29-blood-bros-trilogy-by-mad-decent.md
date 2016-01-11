@@ -24,7 +24,7 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/maddecent/sets/blood-bros-series'
 title: BLOOD BROS TRILOGY by Mad Decent
-datePublished: '2016-01-11T16:54:54.922Z'
+datePublished: '2016-01-11T16:54:54.965Z'
 dateModified: '2016-01-11T16:54:18.249Z'
 sourcePath: _posts/2015-09-29-blood-bros-trilogy-by-mad-decent.md
 published: true
