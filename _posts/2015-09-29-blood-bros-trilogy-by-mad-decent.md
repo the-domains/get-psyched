@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: "The Blood Bros series, created by Derek 'DJA' Allen and Dirty South Joe."
 app_links:
@@ -24,10 +24,16 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/maddecent/sets/blood-bros-series'
 title: BLOOD BROS TRILOGY by Mad Decent
-datePublished: '2015-09-29T03:00:30.856Z'
-dateModified: '2015-09-29T03:00:10.905Z'
+datePublished: '2016-01-11T16:54:54.922Z'
+dateModified: '2016-01-11T16:54:18.249Z'
 sourcePath: _posts/2015-09-29-blood-bros-trilogy-by-mad-decent.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
