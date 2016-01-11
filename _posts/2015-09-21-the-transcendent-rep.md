@@ -35,7 +35,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=52eTlKDBgBA'
 title: The Transcendent Rep
-datePublished: '2016-01-11T17:25:53.050Z'
+datePublished: '2016-01-11T17:25:53.093Z'
 dateModified: '2015-12-28T15:00:20.410Z'
 sourcePath: _posts/2015-09-21-the-transcendent-rep.md
 published: true
