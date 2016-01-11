@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - views
@@ -35,10 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=b9ZJHrmi2TE&list=PLD590916C2DFDFBD9&index=4'
 title: Simple Math - Become Legendary
-datePublished: '2015-09-29T03:00:47.342Z'
-dateModified: '2015-09-18T17:23:46.962Z'
+datePublished: '2016-01-11T16:54:33.228Z'
+dateModified: '2016-01-11T16:54:28.276Z'
 sourcePath: _posts/2015-09-18-simple-math-become-legendary.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
